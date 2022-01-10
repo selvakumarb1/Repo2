@@ -1,6 +1,6 @@
 import logging
 
-Build='Build......'
+Build='Building......'
 print(Build)
 logging.debug('This is a debug message')
 logging.info('This is an info message')
